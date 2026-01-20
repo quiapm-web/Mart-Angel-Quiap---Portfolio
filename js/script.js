@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const educationData = [
     {
-      degree: "Bachelor of Science in Information and Technology - College",
+      degree: "Bachelor of Science in Information and Technology",
       institution: "Aurora State College of Technology",
       year: "2013-2017",
     },
@@ -226,6 +226,13 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   const skillsData = [
+    "Expert Graphic & Video Editor Artist",
+    "Creative Visual Storytelling & Branding",
+    "Professional Photo Manipulation & Retouching",
+    "Advanced Color Grading & Cinematic Video Editing",
+    "Logo Design, Typography & Layout Design",
+    "Social Media, Marketing & Promotional Content Creation",
+    "Motion Graphics & Visual Effects",
     "Canva",
     "Adobe Photoshop",
     "Adobe Premiere Pro",
@@ -250,7 +257,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "Playing Acoustic Guitar",
     "Singing",
     "Song Writing",
-    "Surf Instructor",
+    "Surfing",
     "Photography",
   ];
 
