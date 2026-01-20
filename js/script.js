@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const trainingData = [
     {
       title:
-        "Illustrator 2025 Essential Training",
+        "Illustrator 2025 Essential Training (7h 2m)",
       conductedBy:
         "LinkedIn Learning",
       date: {
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title:
-        "InDesign 2025 Essential Training",
+        "InDesign 2025 Essential Training (5h 22m)",
       conductedBy:
         "LinkedIn Learning",
       date: {
@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title:
-        "Photoshop 2025 Essential Training",
+        "Photoshop 2025 Essential Training (12h)",
       conductedBy:
         "LinkedIn Learning",
       date: {
@@ -84,7 +84,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       title:
-        "Premiere Pro 2025 Essential Training",
+        "Premiere Pro 2025 Essential Training (5h 53m)",
       conductedBy:
         "LinkedIn Learning",
       date: {
