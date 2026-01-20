@@ -54,12 +54,42 @@ document.addEventListener("DOMContentLoaded", () => {
   const trainingData = [
     {
       title:
-        "Advanced Web DevelopmentMERN Training + OpenJS Application Developer (JSNAD) Certification Prep",
+        "Illustrator 2025 Essential Training",
       conductedBy:
-        "Department of Information and Communications Technology (DICT)",
+        "LinkedIn Learning",
       date: {
-        from: "11/01/2024",
-        to: "12/27/2024",
+        from: "12/15/2025",
+        to: "12/15/2025",
+      },
+    },
+    {
+      title:
+        "InDesign 2025 Essential Training",
+      conductedBy:
+        "LinkedIn Learning",
+      date: {
+        from: "12/9/2025",
+        to: "12/9/2025",
+      },
+    },
+    {
+      title:
+        "Photoshop 2025 Essential Training",
+      conductedBy:
+        "LinkedIn Learning",
+      date: {
+        from: "12/1/2025",
+        to: "12/1/2025",
+      },
+    },
+    {
+      title:
+        "Premiere Pro 2025 Essential Training",
+      conductedBy:
+        "LinkedIn Learning",
+      date: {
+        from: "11/28/2025",
+        to: "11/28/2025",
       },
     },
     {
@@ -78,15 +108,6 @@ document.addEventListener("DOMContentLoaded", () => {
       date: {
         from: "10/10/2024",
         to: "10/10/2024",
-      },
-    },
-    {
-      title:
-        "Prepare for the Cisco Certified Network Associate (CCNA) (200-301) Certification Exam (5h 20m)",
-      conductedBy: "Online Course",
-      date: {
-        from: "10/07/2024",
-        to: "10/07/2024",
       },
     },
     {
@@ -205,6 +226,11 @@ document.addEventListener("DOMContentLoaded", () => {
   ];
 
   const skillsData = [
+    "Canva",
+    "Adobe Photoshop",
+    "Adobe Premiere Pro",
+    "Adobe Illustrator",
+    "InDesign",
     "React",
     "Node.js",
     "MongoDB",
@@ -216,10 +242,6 @@ document.addEventListener("DOMContentLoaded", () => {
     "GitHub",
     "Network Security",
     "Cloud Computing",
-    "Canva",
-    "Adobe Photoshop",
-    "Adobe Illustrator",
-    "InDesign",
     "Adobe Acrobat",
     "Microsoft Office",
   ];
